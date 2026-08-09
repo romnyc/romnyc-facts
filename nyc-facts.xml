@@ -1,70 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RomNYC — NYC Facts</title>
+    <title>RomNYC NYC Facts</title>
     <link>https://romnyc.github.io/romnyc-facts/</link>
-    <description>Short New York City facts for the RomNYC livestream ticker.</description>
+    <description>New York City facts from RomNYC</description>
     <language>en-us</language>
-    <ttl>60</ttl>
 
     <item>
-      <title>🗽 NYC FACT: The five boroughs became one city in 1898.</title>
-      <description>The Bronx, Brooklyn, Manhattan, Queens and Staten Island were consolidated into Greater New York in 1898.</description>
-      <guid>romnyc-fact-001</guid>
+      <title>NYC FACT: The first NYC subway opened in 1904.</title>
+      <link>https://romnyc.github.io/romnyc-facts/</link>
+      <description>The first subway line ran from City Hall to 145th Street.</description>
+      <pubDate>Sun, 09 Aug 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">romnyc-fact-001</guid>
     </item>
 
     <item>
-      <title>🚇 NYC FACT: The first NYC subway opened in 1904.</title>
-      <description>The first subway line ran from City Hall to 145th Street in Manhattan.</description>
-      <guid>romnyc-fact-002</guid>
+      <title>NYC FACT: The Brooklyn Bridge opened in 1883.</title>
+      <link>https://romnyc.github.io/romnyc-facts/</link>
+      <description>The Brooklyn Bridge became the first permanent bridge connecting Manhattan and Brooklyn.</description>
+      <pubDate>Sun, 09 Aug 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="false">romnyc-fact-002</guid>
     </item>
 
     <item>
-      <title>🌉 NYC FACT: The Brooklyn Bridge opened in 1883.</title>
-      <description>It became the first permanent bridge connecting Manhattan and Brooklyn.</description>
-      <guid>romnyc-fact-003</guid>
-    </item>
-
-    <item>
-      <title>🗽 NYC FACT: The Statue of Liberty was a gift from France.</title>
-      <description>The Statue of Liberty was dedicated in New York Harbor in 1886.</description>
-      <guid>romnyc-fact-004</guid>
-    </item>
-
-    <item>
-      <title>🏙️ NYC FACT: The Empire State Building opened in 1931.</title>
-      <description>It was completed in roughly 13 months during the Great Depression.</description>
-      <guid>romnyc-fact-005</guid>
-    </item>
-
-    <item>
-      <title>🌳 NYC FACT: Central Park covers about 843 acres.</title>
+      <title>NYC FACT: Central Park covers about 843 acres.</title>
+      <link>https://romnyc.github.io/romnyc-facts/</link>
       <description>Central Park is larger than the country of Monaco.</description>
-      <guid>romnyc-fact-006</guid>
-    </item>
-
-    <item>
-      <title>🍕 NYC FACT: Lombardi's is widely regarded as America's first licensed pizzeria.</title>
-      <description>The historic pizzeria opened in Little Italy in the early 20th century.</description>
-      <guid>romnyc-fact-007</guid>
-    </item>
-
-    <item>
-      <title>🚢 NYC FACT: The Staten Island Ferry is free.</title>
-      <description>The ferry connects Lower Manhattan and Staten Island and offers views of the Statue of Liberty.</description>
-      <guid>romnyc-fact-008</guid>
-    </item>
-
-    <item>
-      <title>🏙️ NYC FACT: Queens is the largest NYC borough by land area.</title>
-      <description>Queens covers more land than any of the city's other four boroughs.</description>
-      <guid>romnyc-fact-009</guid>
-    </item>
-
-    <item>
-      <title>🌊 NYC FACT: The East River is actually a tidal strait.</title>
-      <description>Despite its name, the East River is a tidal waterway connecting New York Harbor with Long Island Sound.</description>
-      <guid>romnyc-fact-010</guid>
+      <pubDate>Sun, 09 Aug 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="false">romnyc-fact-003</guid>
     </item>
 
   </channel>
