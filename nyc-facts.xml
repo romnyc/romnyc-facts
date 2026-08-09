@@ -1,33 +1,646 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RomNYC NYC Facts</title>
+    <title>RomNYC - NYC Facts</title>
     <link>https://romnyc.github.io/romnyc-facts/</link>
-    <description>New York City facts from RomNYC</description>
+    <description>Interesting facts about New York City for the RomNYC webcam ticker.</description>
     <language>en-us</language>
 
     <item>
-      <title>NYC FACT: The first NYC subway opened in 1904.</title>
-      <link>https://romnyc.github.io/romnyc-facts/</link>
-      <description>The first subway line ran from City Hall to 145th Street.</description>
-      <pubDate>Sun, 09 Aug 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">romnyc-fact-001</guid>
+      <title>New York City has five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island.</title>
     </item>
-
     <item>
-      <title>NYC FACT: The Brooklyn Bridge opened in 1883.</title>
-      <link>https://romnyc.github.io/romnyc-facts/</link>
-      <description>The Brooklyn Bridge became the first permanent bridge connecting Manhattan and Brooklyn.</description>
-      <pubDate>Sun, 09 Aug 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="false">romnyc-fact-002</guid>
+      <title>Queens is New York City's largest borough by land area.</title>
     </item>
-
     <item>
-      <title>NYC FACT: Central Park covers about 843 acres.</title>
-      <link>https://romnyc.github.io/romnyc-facts/</link>
-      <description>Central Park is larger than the country of Monaco.</description>
-      <pubDate>Sun, 09 Aug 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="false">romnyc-fact-003</guid>
+      <title>Brooklyn is New York City's most populous borough.</title>
+    </item>
+    <item>
+      <title>Manhattan is New York City's smallest borough by land area.</title>
+    </item>
+    <item>
+      <title>The Bronx is the only NYC borough located primarily on the mainland.</title>
+    </item>
+    <item>
+      <title>Staten Island is New York City's southernmost borough.</title>
+    </item>
+    <item>
+      <title>New York City was originally settled by the Dutch as New Amsterdam.</title>
+    </item>
+    <item>
+      <title>New Amsterdam was renamed New York after the English took control in 1664.</title>
+    </item>
+    <item>
+      <title>New York City was the first capital of the United States under the Constitution.</title>
+    </item>
+    <item>
+      <title>George Washington was inaugurated as president at Federal Hall in New York City in 1789.</title>
+    </item>
+    <item>
+      <title>Federal Hall once stood on Wall Street in Lower Manhattan.</title>
+    </item>
+    <item>
+      <title>Wall Street takes its name from a defensive wall built by the Dutch.</title>
+    </item>
+    <item>
+      <title>Broadway is the only major Manhattan street that runs diagonally through the island.</title>
+    </item>
+    <item>
+      <title>Times Square was originally known as Longacre Square.</title>
+    </item>
+    <item>
+      <title>Longacre Square was renamed Times Square in 1904.</title>
+    </item>
+    <item>
+      <title>Times Square was named after The New York Times moved its headquarters there.</title>
+    </item>
+    <item>
+      <title>The first New Year's Eve celebration in Times Square took place in 1904.</title>
+    </item>
+    <item>
+      <title>Central Park opened to the public in 1858.</title>
+    </item>
+    <item>
+      <title>Central Park covers about 843 acres.</title>
+    </item>
+    <item>
+      <title>Central Park is larger than the country of Monaco.</title>
+    </item>
+    <item>
+      <title>The Mall is one of Central Park's most recognizable tree-lined promenades.</title>
+    </item>
+    <item>
+      <title>Bethesda Fountain is one of Central Park's best-known landmarks.</title>
+    </item>
+    <item>
+      <title>Bow Bridge is one of Central Park's most photographed bridges.</title>
+    </item>
+    <item>
+      <title>Belvedere Castle sits on one of the highest points in Central Park.</title>
+    </item>
+    <item>
+      <title>Strawberry Fields in Central Park is a memorial to John Lennon.</title>
+    </item>
+    <item>
+      <title>The Empire State Building opened in 1931.</title>
+    </item>
+    <item>
+      <title>The Empire State Building has 102 floors.</title>
+    </item>
+    <item>
+      <title>The Empire State Building was the world's tallest building when it opened.</title>
+    </item>
+    <item>
+      <title>The Chrysler Building opened in 1930.</title>
+    </item>
+    <item>
+      <title>The Chrysler Building briefly held the title of world's tallest building in 1930.</title>
+    </item>
+    <item>
+      <title>One World Trade Center is 1,776 feet tall to the top of its spire.</title>
+    </item>
+    <item>
+      <title>The height of One World Trade Center references the year 1776.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty was a gift from France to the United States.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty was dedicated in 1886.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty stands on Liberty Island.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty is made primarily of copper.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty turned green because of the natural oxidation of its copper exterior.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty's tablet bears the date July 4, 1776 in Roman numerals.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty's official name is Liberty Enlightening the World.</title>
+    </item>
+    <item>
+      <title>The Statue of Liberty's crown has seven rays.</title>
+    </item>
+    <item>
+      <title>The Brooklyn Bridge opened in 1883.</title>
+    </item>
+    <item>
+      <title>The Brooklyn Bridge connected Manhattan and Brooklyn when it opened.</title>
+    </item>
+    <item>
+      <title>The Brooklyn Bridge was the world's longest suspension bridge when it opened.</title>
+    </item>
+    <item>
+      <title>John A. Roebling conceived the Brooklyn Bridge and served as its chief engineer.</title>
+    </item>
+    <item>
+      <title>Washington Roebling took over the Brooklyn Bridge project after his father's death.</title>
+    </item>
+    <item>
+      <title>Emily Warren Roebling helped oversee construction of the Brooklyn Bridge.</title>
+    </item>
+    <item>
+      <title>The Manhattan Bridge opened in 1909.</title>
+    </item>
+    <item>
+      <title>The Williamsburg Bridge opened in 1903.</title>
+    </item>
+    <item>
+      <title>The Queensboro Bridge opened in 1909.</title>
+    </item>
+    <item>
+      <title>The Queensboro Bridge connects Manhattan and Queens.</title>
+    </item>
+    <item>
+      <title>The Queensboro Bridge is also known as the 59th Street Bridge.</title>
+    </item>
+    <item>
+      <title>The Queensboro Bridge passes over Roosevelt Island.</title>
+    </item>
+    <item>
+      <title>The George Washington Bridge connects Manhattan with New Jersey.</title>
+    </item>
+    <item>
+      <title>The George Washington Bridge opened in 1931.</title>
+    </item>
+    <item>
+      <title>The Verrazzano-Narrows Bridge connects Brooklyn and Staten Island.</title>
+    </item>
+    <item>
+      <title>The Verrazzano-Narrows Bridge opened in 1964.</title>
+    </item>
+    <item>
+      <title>The Verrazzano-Narrows Bridge was the world's longest suspension bridge when it opened.</title>
+    </item>
+    <item>
+      <title>The NYC subway began service in 1904.</title>
+    </item>
+    <item>
+      <title>The first NYC subway line ran from City Hall to 145th Street.</title>
+    </item>
+    <item>
+      <title>The NYC subway operates 24 hours a day.</title>
+    </item>
+    <item>
+      <title>The NYC subway serves Manhattan, Brooklyn, Queens, and the Bronx.</title>
+    </item>
+    <item>
+      <title>Staten Island does not have a traditional NYC subway line.</title>
+    </item>
+    <item>
+      <title>The Staten Island Railway operates separately from the NYC subway.</title>
+    </item>
+    <item>
+      <title>The G train is the only NYC subway service that does not enter Manhattan.</title>
+    </item>
+    <item>
+      <title>The 7 train connects Manhattan with Flushing in Queens.</title>
+    </item>
+    <item>
+      <title>The L train crosses the East River through the Canarsie Tunnel.</title>
+    </item>
+    <item>
+      <title>The J and Z trains cross the Williamsburg Bridge.</title>
+    </item>
+    <item>
+      <title>The N, Q, R, and W trains cross the Manhattan Bridge.</title>
+    </item>
+    <item>
+      <title>The 4, 5, and 6 trains use the Lexington Avenue corridor.</title>
+    </item>
+    <item>
+      <title>Grand Central Terminal opened in 1913.</title>
+    </item>
+    <item>
+      <title>Grand Central Terminal's main concourse has a famous celestial ceiling.</title>
+    </item>
+    <item>
+      <title>The Grand Central celestial ceiling originally depicted the zodiac sky incorrectly.</title>
+    </item>
+    <item>
+      <title>Grand Central Terminal has a four-faced clock above its information booth.</title>
+    </item>
+    <item>
+      <title>Grand Central Terminal contains a hidden tennis court.</title>
+    </item>
+    <item>
+      <title>Grand Central's Whispering Gallery is famous for its unusual acoustics.</title>
+    </item>
+    <item>
+      <title>The original Pennsylvania Station was demolished in the 1960s.</title>
+    </item>
+    <item>
+      <title>Madison Square Garden sits above the current Pennsylvania Station complex.</title>
+    </item>
+    <item>
+      <title>Rockefeller Center was built during the Great Depression.</title>
+    </item>
+    <item>
+      <title>Rockefeller Center contains 19 commercial buildings.</title>
+    </item>
+    <item>
+      <title>The Rockefeller Center Christmas tree tradition began in 1931.</title>
+    </item>
+    <item>
+      <title>The Rockefeller Center ice rink opened in 1936.</title>
+    </item>
+    <item>
+      <title>Radio City Music Hall opened in 1932.</title>
+    </item>
+    <item>
+      <title>The Rockettes were founded in 1925.</title>
+    </item>
+    <item>
+      <title>30 Rockefeller Plaza is commonly known as 30 Rock.</title>
+    </item>
+    <item>
+      <title>NBC broadcasts from Rockefeller Center.</title>
+    </item>
+    <item>
+      <title>The Metropolitan Museum of Art opened in 1870.</title>
+    </item>
+    <item>
+      <title>The Met is located along Fifth Avenue beside Central Park.</title>
+    </item>
+    <item>
+      <title>The American Museum of Natural History was founded in 1869.</title>
+    </item>
+    <item>
+      <title>The American Museum of Natural History is located on the Upper West Side.</title>
+    </item>
+    <item>
+      <title>The Hayden Planetarium is part of the American Museum of Natural History.</title>
+    </item>
+    <item>
+      <title>The Museum of Modern Art is commonly known as MoMA.</title>
+    </item>
+    <item>
+      <title>MoMA opened in 1929.</title>
+    </item>
+    <item>
+      <title>The Solomon R. Guggenheim Museum opened in 1959.</title>
+    </item>
+    <item>
+      <title>The Guggenheim building was designed by Frank Lloyd Wright.</title>
+    </item>
+    <item>
+      <title>The New York Public Library was founded in 1895.</title>
+    </item>
+    <item>
+      <title>The New York Public Library's main building is on Fifth Avenue at 42nd Street.</title>
+    </item>
+    <item>
+      <title>The two lion statues outside the New York Public Library are named Patience and Fortitude.</title>
+    </item>
+    <item>
+      <title>The Rose Main Reading Room is inside the New York Public Library's main building.</title>
+    </item>
+    <item>
+      <title>The Flatiron Building was completed in 1902.</title>
+    </item>
+    <item>
+      <title>The Flatiron Building gets its name from its resemblance to a clothes iron.</title>
+    </item>
+    <item>
+      <title>The Dakota was completed in 1884.</title>
+    </item>
+    <item>
+      <title>John Lennon lived at the Dakota.</title>
+    </item>
+    <item>
+      <title>Washington Square Park was once used as a burial ground.</title>
+    </item>
+    <item>
+      <title>Washington Square Arch was completed in its permanent form in 1892.</title>
+    </item>
+    <item>
+      <title>SoHo means South of Houston Street.</title>
+    </item>
+    <item>
+      <title>NoHo means North of Houston Street.</title>
+    </item>
+    <item>
+      <title>Tribeca is short for Triangle Below Canal Street.</title>
+    </item>
+    <item>
+      <title>NoLIta is short for North of Little Italy.</title>
+    </item>
+    <item>
+      <title>Harlem is located in northern Manhattan.</title>
+    </item>
+    <item>
+      <title>The Harlem Renaissance made Harlem a major center of African American culture.</title>
+    </item>
+    <item>
+      <title>The Apollo Theater opened at its current location in 1934.</title>
+    </item>
+    <item>
+      <title>The Apollo Theater is located on 125th Street.</title>
+    </item>
+    <item>
+      <title>The Bronx is widely recognized as the birthplace of hip-hop culture.</title>
+    </item>
+    <item>
+      <title>Hip-hop culture emerged in the Bronx during the 1970s.</title>
+    </item>
+    <item>
+      <title>Yankee Stadium opened at its current location in 2009.</title>
+    </item>
+    <item>
+      <title>The New York Yankees originally played at the Polo Grounds.</title>
+    </item>
+    <item>
+      <title>Citi Field is located in Flushing, Queens.</title>
+    </item>
+    <item>
+      <title>Citi Field opened in 2009.</title>
+    </item>
+    <item>
+      <title>The New York Mets play their home games at Citi Field.</title>
+    </item>
+    <item>
+      <title>Flushing Meadows Corona Park hosted the 1939 World's Fair.</title>
+    </item>
+    <item>
+      <title>Flushing Meadows Corona Park hosted the 1964 World's Fair.</title>
+    </item>
+    <item>
+      <title>The Unisphere was built for the 1964 World's Fair.</title>
+    </item>
+    <item>
+      <title>The New York State Pavilion was built for the 1964 World's Fair.</title>
+    </item>
+    <item>
+      <title>Forest Hills Gardens was developed beginning in 1909.</title>
+    </item>
+    <item>
+      <title>Forest Hills Gardens was influenced by the garden-city movement.</title>
+    </item>
+    <item>
+      <title>Forest Hills Stadium opened in 1923.</title>
+    </item>
+    <item>
+      <title>Forest Hills Stadium hosted the U.S. National Championships before the tournament moved to Flushing Meadows.</title>
+    </item>
+    <item>
+      <title>The Beatles performed at Forest Hills Stadium.</title>
+    </item>
+    <item>
+      <title>The Rolling Stones have performed at Forest Hills Stadium.</title>
+    </item>
+    <item>
+      <title>Roosevelt Island is part of Manhattan.</title>
+    </item>
+    <item>
+      <title>The Roosevelt Island Tramway opened in 1976.</title>
+    </item>
+    <item>
+      <title>The Roosevelt Island Tramway connects Roosevelt Island with Manhattan.</title>
+    </item>
+    <item>
+      <title>Roosevelt Island was formerly known as Welfare Island.</title>
+    </item>
+    <item>
+      <title>Inwood is Manhattan's northernmost neighborhood.</title>
+    </item>
+    <item>
+      <title>Inwood Hill Park contains one of Manhattan's last remaining natural forest areas.</title>
+    </item>
+    <item>
+      <title>The Harlem River separates Manhattan from the Bronx.</title>
+    </item>
+    <item>
+      <title>The Harlem River is a tidal strait rather than a conventional river.</title>
+    </item>
+    <item>
+      <title>Fort Tryon Park is home to The Met Cloisters.</title>
+    </item>
+    <item>
+      <title>The Met Cloisters is part of the Metropolitan Museum of Art.</title>
+    </item>
+    <item>
+      <title>The Cloisters specializes in medieval European art and architecture.</title>
+    </item>
+    <item>
+      <title>The High Line was built on a former elevated freight railroad.</title>
+    </item>
+    <item>
+      <title>The High Line opened as a public park in 2009.</title>
+    </item>
+    <item>
+      <title>The High Line runs along Manhattan's West Side.</title>
+    </item>
+    <item>
+      <title>Hudson Yards is home to The Vessel.</title>
+    </item>
+    <item>
+      <title>The Vessel opened in 2019.</title>
+    </item>
+    <item>
+      <title>The Edge observation deck is located at Hudson Yards.</title>
+    </item>
+    <item>
+      <title>The Bronx Zoo opened in 1899.</title>
+    </item>
+    <item>
+      <title>The New York Botanical Garden was founded in 1891.</title>
+    </item>
+    <item>
+      <title>Pelham Bay Park is the largest public park in New York City.</title>
+    </item>
+    <item>
+      <title>Prospect Park was designed by Frederick Law Olmsted and Calvert Vaux.</title>
+    </item>
+    <item>
+      <title>Prospect Park opened in the 1860s.</title>
+    </item>
+    <item>
+      <title>Brooklyn Botanic Garden opened in 1911.</title>
+    </item>
+    <item>
+      <title>Bowling Green is New York City's oldest public park.</title>
+    </item>
+    <item>
+      <title>Bowling Green was formally established as a public park in 1733.</title>
+    </item>
+    <item>
+      <title>Battery Park sits at the southern tip of Manhattan.</title>
+    </item>
+    <item>
+      <title>Ellis Island served as a major U.S. immigration station from 1892 to 1954.</title>
+    </item>
+    <item>
+      <title>More than 12 million immigrants were processed through Ellis Island.</title>
+    </item>
+    <item>
+      <title>The Holland Tunnel opened in 1927.</title>
+    </item>
+    <item>
+      <title>The Lincoln Tunnel opened in 1937.</title>
+    </item>
+    <item>
+      <title>The Queens-Midtown Tunnel opened in 1940.</title>
+    </item>
+    <item>
+      <title>The East River separates Manhattan from Brooklyn and Queens.</title>
+    </item>
+    <item>
+      <title>The Hudson River separates Manhattan from New Jersey.</title>
+    </item>
+    <item>
+      <title>Governors Island is located in New York Harbor south of Manhattan.</title>
+    </item>
+    <item>
+      <title>The Commissioners' Plan of 1811 established much of Manhattan's street grid.</title>
+    </item>
+    <item>
+      <title>Fifth Avenue divides Manhattan addresses into east and west.</title>
+    </item>
+    <item>
+      <title>Park Avenue was originally known as Fourth Avenue.</title>
+    </item>
+    <item>
+      <title>Columbia University was founded in 1754.</title>
+    </item>
+    <item>
+      <title>Columbia University was originally called King's College.</title>
+    </item>
+    <item>
+      <title>New York University was founded in 1831.</title>
+    </item>
+    <item>
+      <title>Fordham University was founded in 1841.</title>
+    </item>
+    <item>
+      <title>The United Nations headquarters has been on Manhattan's East River since 1952.</title>
+    </item>
+    <item>
+      <title>The Woolworth Building opened in 1913.</title>
+    </item>
+    <item>
+      <title>The Woolworth Building was one of the world's tallest buildings when it opened.</title>
+    </item>
+    <item>
+      <title>St. Patrick's Cathedral on Fifth Avenue was completed in 1878.</title>
+    </item>
+    <item>
+      <title>The New York Stock Exchange is located on Wall Street.</title>
+    </item>
+    <item>
+      <title>The New York Stock Exchange traces its origins to the Buttonwood Agreement of 1792.</title>
+    </item>
+    <item>
+      <title>The Macy's Thanksgiving Day Parade has been held in New York City since 1924.</title>
+    </item>
+    <item>
+      <title>Arthur Avenue in the Bronx is famous for its Italian-American food culture.</title>
+    </item>
+    <item>
+      <title>City Island is a nautical community in the Bronx.</title>
+    </item>
+    <item>
+      <title>Van Cortlandt Park is one of New York City's largest parks.</title>
+    </item>
+    <item>
+      <title>The Staten Island Ferry operates between Manhattan and Staten Island.</title>
+    </item>
+    <item>
+      <title>The Staten Island Ferry is free to ride.</title>
+    </item>
+    <item>
+      <title>The Staten Island Ferry provides views of the Statue of Liberty and Lower Manhattan.</title>
+    </item>
+    <item>
+      <title>Rockaway Beach is New York City's largest public ocean beach.</title>
+    </item>
+    <item>
+      <title>Coney Island has been a major amusement destination for more than a century.</title>
+    </item>
+    <item>
+      <title>The Cyclone roller coaster opened in 1927.</title>
+    </item>
+    <item>
+      <title>The Cyclone is a designated New York City landmark.</title>
+    </item>
+    <item>
+      <title>Carnegie Hall opened in 1891.</title>
+    </item>
+    <item>
+      <title>Carnegie Hall is located near Seventh Avenue and 57th Street.</title>
+    </item>
+    <item>
+      <title>Lincoln Center opened in the 1960s.</title>
+    </item>
+    <item>
+      <title>The U.S. Open has been held at Flushing Meadows since 1978.</title>
+    </item>
+    <item>
+      <title>Arthur Ashe Stadium is located at the USTA Billie Jean King National Tennis Center.</title>
+    </item>
+    <item>
+      <title>New York City has hosted the Macy's Thanksgiving Day Parade for more than a century.</title>
+    </item>
+    <item>
+      <title>New York City's five boroughs were consolidated into one city government in 1898.</title>
+    </item>
+    <item>
+      <title>Brooklyn was an independent city before the 1898 consolidation.</title>
+    </item>
+    <item>
+      <title>Long Island City was an independent city before becoming part of New York City in 1898.</title>
+    </item>
+    <item>
+      <title>Brooklyn takes its name from the Dutch town of Breukelen.</title>
+    </item>
+    <item>
+      <title>The Bronx is named after Jonas Bronck, a 17th-century settler.</title>
+    </item>
+    <item>
+      <title>Queens was named for Catherine of Braganza, queen consort of King Charles II.</title>
+    </item>
+    <item>
+      <title>Staten Island was named after the States General of the Dutch Republic.</title>
+    </item>
+    <item>
+      <title>Manhattan's name comes from a Lenape place name recorded by European settlers.</title>
+    </item>
+    <item>
+      <title>New York City has more than 8 million residents.</title>
+    </item>
+    <item>
+      <title>New York City is the most populous city in the United States.</title>
+    </item>
+    <item>
+      <title>New York City is home to one of the world's largest public transportation systems.</title>
+    </item>
+    <item>
+      <title>The MTA operates New York City's subway system.</title>
+    </item>
+    <item>
+      <title>The MTA also operates Metro-North Railroad and Long Island Rail Road.</title>
+    </item>
+    <item>
+      <title>Grand Central Madison provides Long Island Rail Road service beneath Grand Central Terminal.</title>
+    </item>
+    <item>
+      <title>New York City's subway system uses both numbered and lettered services.</title>
+    </item>
+    <item>
+      <title>New York City has public beaches along the Atlantic Ocean.</title>
+    </item>
+    <item>
+      <title>Jacob Riis Park is located on the Rockaway Peninsula.</title>
+    </item>
+    <item>
+      <title>Orchard Beach is located in the Bronx.</title>
+    </item>
+    <item>
+      <title>New York City has been called the City That Never Sleeps.</title>
     </item>
 
   </channel>
